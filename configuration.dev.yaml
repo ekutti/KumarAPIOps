@@ -1,6 +1,0 @@
-apimServiceName: az-amer-apim-poc
-namedValues:
-loggers:
-diagnostics:
-backends:
-apis:
